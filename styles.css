@@ -15,6 +15,9 @@ td{
 	width:250px;
 	height:150px;
 }
+.img{
+	object-fit: cover;
+}
 
 .fc{
 	width:200px;
