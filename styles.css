@@ -10,12 +10,12 @@ td{
 	background-color:rgb(203, 214, 203);
 	width:1100px;
 }
-
-img.imageContainer{
-	width:250px;
-	height:150px;
+.imageContainer{
+	object-fit:cover;
 }
-
+img{
+	width:200px;
+}
 .fc{
 	width:200px;
 	
@@ -28,6 +28,8 @@ img.imageContainer{
 .tc{
 	width:200px;
 }
+
+
 ol{
 	display:inline-block;
 	text-align: left;
