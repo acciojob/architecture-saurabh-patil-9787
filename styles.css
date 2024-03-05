@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:rgb(203, 214, 203);
+	width:1100px;
+}
+
+.imageContainer{
+	width:250px;
+	height:150px;
+}
